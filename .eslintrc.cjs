@@ -7,7 +7,7 @@ module.exports = {
 		'plugin:react-hooks/recommended',
 		'plugin:react/recommended',
 		'plugin:eslint-config-prettier',
-		'prittier',
+		'prettier',
 	],
 	ignorePatterns: ['dist', '.eslintrc.cjs'],
 	parser: '@typescript-eslint/parser',
@@ -18,4 +18,4 @@ module.exports = {
 		'react/prop-types': 'off',
 		'no-debugger': 'warn',
 	},
-};vvv
+};
